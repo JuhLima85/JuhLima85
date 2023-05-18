@@ -2,9 +2,9 @@
 
 <br>
 
-Sou uma desenvolvedora Java e quero te apresentar o meu portfólio no GitHub! Nele, você encontrará projetos que demonstram um pouco da minha experiência na linguagem e seus frameworks, como por exemplo JDBC, Servlet, JSP, JPA com Hibernate como ORM, Spring Boot, JSF, Angular e MySQL. <br>
+Sou uma desenvolvedora Java e gostaria de compartilhar meu portfólio no GitHub com você! Nele, você encontrará projetos que demonstram um pouco minha experiência na linguagem e seus frameworks, incluindo sistemas legados com JDBC, Servlet e JSP, assim como projetos utilizando JPA com Hibernate como ORM, JSF com PrimeFaces e tecnologias mais recentes como APIs REST com Spring Boot, Angular e React. 
 
-Sinta-se à vontade para explorar meu portfólio e entrar em contato comigo se assim desejar.
+Fique à vontade para explorar meu portfólio e entrar em contato comigo, caso deseje.
 <br>
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliana-lima-b133b967)
