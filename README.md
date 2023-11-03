@@ -2,7 +2,7 @@
 
 <br>
 
-Sou uma desenvolvedora Java e gostaria de compartilhar meu repositó no GitHub com você! Nele, você encontrará projetos que demonstram um pouco minha experiência na linguagem e seus frameworks, incluindo sistemas legados com JDBC, Servlet e JSP, assim como projetos utilizando JPA com Hibernate como ORM, JSF com PrimeFaces e tecnologias mais recentes como APIs REST com Spring Boot, Angular, React e Docker. 
+Sou uma desenvolvedora Java e gostaria de compartilhar meu repositó no GitHub com você! Nele, você encontrará projetos que demonstram um pouco minha experiência na linguagem e seus frameworks, incluindo sistemas legados com JDBC, Servlet e JSP, assim como projetos utilizando JPA com Hibernate como ORM, JSF com PrimeFaces e tecnologias mais recentes como APIs REST com Spring Boot, Angular e Docker. 
 
 <br>
 
@@ -14,7 +14,7 @@ Sou uma desenvolvedora Java e gostaria de compartilhar meu repositó no GitHub c
 ## Tecnologias que mais uso
  <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,docker,mysql,postgres,ngular" />
+    <img src="https://skillicons.dev/icons?i=java,spring,docker,mysql,postgres,angular" />
   </a>
 </p>
   
