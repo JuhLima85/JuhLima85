@@ -2,7 +2,7 @@
 
 <br>
 
-Sou desenvolvedora Java e gostaria de compartilhar alguns dos meus projetos com você. Aqui, apresento um pouco da minha experiência na linguagem e em seu ecossistema, desde sistemas legados, até aplicações mais modernas utilizando APIs REST com Spring Boot,  React, Angular, Docker e integrações diversas.
+Sou desenvolvedora Java e gostaria de compartilhar alguns dos meus projetos com você. Aqui, apresento um pouco da minha experiência na linguagem e em seu ecossistema, desde sistemas legados até aplicações mais modernas utilizando APIs REST com Spring Boot, React, Angular, Docker e integrações diversas.
 
 <br>
 
