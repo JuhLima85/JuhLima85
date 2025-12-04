@@ -1,8 +1,8 @@
-## Olá! Me chamo Juliana Lima 🖐️
+## Olá, 
 
 <br>
 
-Sou desenvolvedora Java e gostaria de compartilhar meu repositó no GitHub com você! Nele, você encontrará projetos que demonstram um pouco minha experiência na linguagem e seus frameworks, incluindo sistemas legados com JDBC, Servlet e JSP, assim como projetos utilizando JPA com Hibernate como ORM, JSF com PrimeFaces e tecnologias mais recentes como APIs REST com Spring Boot, Angular e Docker. 
+Sou desenvolvedora Java e gostaria de compartilhar alguns dos meus projetos com você. Aqui, apresento um pouco da minha experiência na linguagem e em seu ecossistema, desde sistemas legados, até aplicações mais modernas utilizando APIs REST com Spring Boot,  React, Angular, Docker e integrações diversas.
 
 <br>
 
